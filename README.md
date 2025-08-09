@@ -17,6 +17,12 @@
 - **🔍 Code Formatting**: Syntax-highlighted code blocks with copy functionality
 - **⚡ Fast Performance**: Built with Next.js for optimal speed and SEO
 
+## 🚀 Demo
+
+![Code Tutor AI Demo](https://codetutorai.vercel.app/)
+
+*Ask any programming question and get expert guidance with formatted code examples*
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 15.4.6, React 19.1.0
