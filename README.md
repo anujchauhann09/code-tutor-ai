@@ -19,9 +19,10 @@
 
 ## 🚀 Demo
 
-![Code Tutor AI Demo](https://codetutorai.vercel.app/)
+[![Code Tutor AI Logo](public/logo.png)](https://codetutorai.vercel.app/)
 
-*Ask any programming question and get expert guidance with formatted code examples*
+**Ask any programming question and get expert guidance with formatted code examples**  
+🔗 **Live Site:** [codetutorai.vercel.app](https://codetutorai.vercel.app/)
 
 ## 🛠️ Tech Stack
 
