@@ -19,7 +19,11 @@
 
 ## 🚀 Demo
 
-[![Code Tutor AI Logo](https://raw.githubusercontent.com/anujchauhann09/code-tutor-ai/main/frontend/public/logo.png)](https://codetutorai.vercel.app/)
+<p align="center">
+  <a href="https://codetutorai.vercel.app/">
+    <img src="https://raw.githubusercontent.com/anujchauhann09/code-tutor-ai/main/frontend/public/logo.png" alt="Code Tutor AI Logo" width="150" height="150">
+  </a>
+</p>
 
 **Ask any programming question and get expert guidance with formatted code examples**  
 🔗 **Live Site:** [codetutorai.vercel.app](https://codetutorai.vercel.app/)
