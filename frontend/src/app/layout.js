@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Code Tutor AI",
-  description: "A beautiful, modular coding tutor powered by Google Gemini.",
+  description: "A beautiful, modular coding tutor powered by AI.",
 };
 
 export default function RootLayout({ children }) {
