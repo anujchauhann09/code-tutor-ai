@@ -70,7 +70,7 @@ Before you begin, ensure you have the following installed:
    Create a `.env.local` file in the frontend directory:
    ```env
    NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key_here
-   NEXT_PUBLIC_GEMINI_MODEL=gemini-1.5-flash
+   NEXT_PUBLIC_GEMINI_MODEL=gemini-2.5-flash
    NEXT_PUBLIC_SYSTEM_INSTRUCTION=You are a helpful programming tutor...
    ```
 
@@ -92,7 +92,7 @@ Before you begin, ensure you have the following installed:
 | Variable | Description | Default | Required |
 |----------|-------------|---------|----------|
 | `NEXT_PUBLIC_GEMINI_API_KEY` | Your Google Gemini API key | - | ✅ |
-| `NEXT_PUBLIC_GEMINI_MODEL` | Gemini model to use | `gemini-1.5-flash` | ❌ |
+| `NEXT_PUBLIC_GEMINI_MODEL` | Gemini# NEXT_PUBLIC_GEMINI_MODEL=gemini-2.5-flash model to use | `gemini-2.5-flash` | ❌ |
 | `NEXT_PUBLIC_SYSTEM_INSTRUCTION` | System prompt for AI | Default tutor prompt | ❌ |
 
 ### Getting a Gemini API Key

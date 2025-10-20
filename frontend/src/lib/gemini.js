@@ -3,7 +3,7 @@ import { loadValue } from "@/lib/storage";
 // Resolve configuration for the Gemini call from environment or user overrides
 export function getGeminiConfig() {
   const envApiKey = process.env.NEXT_PUBLIC_GEMINI_API_KEY || "";
-  const envModel = process.env.NEXT_PUBLIC_GEMINI_MODEL || "gemini-1.5-flash";
+  const envModel = process.env.NEXT_PUBLIC_GEMINI_MODEL || "gemini-2.5-flash";
   const envSystem = process.env.NEXT_PUBLIC_SYSTEM_INSTRUCTION || defaultSystemInstruction;
 
   const userApiKey = loadValue("api_key", "");
